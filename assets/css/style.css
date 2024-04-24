@@ -1,110 +1,101 @@
-
 body {
-    color: aliceblue;
-    font-family: 'Space Grotesk';
-    font-size: light;
-    
+  color: aliceblue;
+  font-family: "Space Grotesk";
+  font-size: light;
 }
 
-.style-navbar{
-    background-color: rgb(24, 24, 24);
+.style-navbar {
+  background-color: rgb(49, 49, 49);
 }
 
-.style-navbar div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
+.style-navbar div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.style-present{
-    height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    
+.style-present {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .icono {
-    color: aliceblue;
+  color: aliceblue;
 }
 
-
-.style-about {    
-    text-align: center;
-    font-size: large;
+.style-about {
+  text-align: center;
+  font-size: large;
 }
 
 .style-card {
-    background-color: rgb(24, 24, 24);
-    height: 150px;
-    width: 150px;
-    text-align: center;
-    align-items: center;
-    color: aliceblue;
+  background-color: rgb(24, 24, 24);
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  align-items: center;
+  color: aliceblue;
 }
 
-.style-card img{
-    height: 60px;
-    width: 60px;
+.style-card img {
+  height: 60px;
+  width: 60px;
 }
 
-.style-experience{    
-    background-color:rgb(24, 24, 24) ;
-    font-size: large;
+.style-experience {
+  background-color: rgb(24, 24, 24);
+  font-size: large;
 }
 
 .experience {
-    padding-inline: 15%;
-    display: flex;
-    justify-content: center;
+  padding-inline: 15%;
+  display: flex;
+  justify-content: center;
 }
 
-
-.style-experience img{
-    height: 50px;
-    width: 50px;
+.style-experience img {
+  height: 50px;
+  width: 50px;
 }
 
-.style-portafolio{
-    max-width: 600px; 
-    max-height: 400px;
-   
+.style-portafolio {
+  max-width: 600px;
+  max-height: 400px;
 }
 
 .style-vineta {
-    color: rgb(208, 255, 37);
+  color: rgb(208, 255, 37);
 }
 
 .style-border {
-    width: 500px;
-    text-align: center;
-    background-color: rgb(24, 24, 24);
-    border: thin inset rgb(208, 255, 37);
-    
+  width: 500px;
+  text-align: center;
+  background-color: rgb(24, 24, 24);
+  border: thin inset rgb(208, 255, 37);
 }
 
 .style-card-contact {
-    background-color: rgb(24, 24, 24);
-    height: 120px;
-    width: 120px;
-    text-align: center;
-    align-items: center;
-    color: aliceblue;
-    border: thin inset rgb(208, 255, 37);
+  background-color: rgb(24, 24, 24);
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  align-items: center;
+  color: aliceblue;
+  border: thin inset rgb(208, 255, 37);
 }
 
-.style-card i{
-    max-height: 60px;
-    max-width: 60px;
+.style-card i {
+  max-height: 60px;
+  max-width: 60px;
 }
 
 .style-footer {
-    background-color: rgb(24, 24, 24);
+  background-color: rgb(24, 24, 24);
 }
 
 a.d-inline-block {
-    align-items: center;
-    text-decoration: none;
+  align-items: center;
+  text-decoration: none;
 }
